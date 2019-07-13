@@ -1,0 +1,104 @@
+/* Write some CSS below */
+body{
+	margin:0;
+	font-family: Overpass; 
+}
+
+h1 {
+		font-family: 'Permanent Marker', cursive;		
+		font-weight: bold;
+		color:#F0386B;
+		font-size: 500%
+}
+
+#logo{
+	
+	width:200px;
+	height:200px;
+	border-radius: 500px;
+}
+
+p {
+	color:black;
+}
+
+.btn-blue {
+	padding: 20px 30px;
+	margin:30px;
+	border-radius: 20px;
+	background-color:#CADEE5;
+	transition: .3s;
+}
+
+.btn-blue:hover {
+	background-color:#FFEB6C ;
+}
+
+h2	{
+	font-family: 'Lato', sans-serif;
+		color:#E86189
+}
+
+h3,h4 {font-family: 'Lato', sans-serif;
+	color:#F0386B;
+}
+
+img {
+	width:250px;
+	height:200px;
+}
+
+#banner{
+	background-image: url(images/background.jpg);
+	background-size: cover;
+	padding: 150px;
+	text-align: center;
+}
+
+.card {
+	background-color: white;
+	box-shadow:0 0 16px rgba(0,0,0,0.1);
+	width:300px;
+	text-align: center;
+	padding:24px;
+	margin: 20px;
+}
+
+.cards {
+	display: flex;
+	justify-content: space-around;
+}
+
+#footer {
+	font-family: 'Kaushan Script', cursive;
+	font-weight: bold;
+	font-size: 500%
+	padding:800px;
+	margin: 8px;
+	box-shadow:1 1 16px rgba(1,1,1,0.1);
+	background-image:url(https://thumbs.dreamstime.com/z/abstraktes-buntes-unsch%C3%A4rfe-bokeh-hintergrund-design-50631929.jpg);
+	width:2000px;
+	height:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
